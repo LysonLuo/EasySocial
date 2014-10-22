@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements OnCheckedChangeListener {
 			mtabHost.setCurrentTabByTag("FORUM");
 			break;
 		case R.id.rb_chat:
-			mtabHost.setCurrentTabByTag("FORUM");
+			mtabHost.setCurrentTabByTag("CHAT");
 			break;
 		}
 	}

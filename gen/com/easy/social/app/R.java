@@ -21,30 +21,62 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int chat=0x7f020000;
-        public static final int forum=0x7f020001;
-        public static final int group_background=0x7f020002;
-        public static final int icon=0x7f020003;
-        public static final int navigation_bar_tab_normal=0x7f020004;
-        public static final int navigation_bar_tab_pressed=0x7f020005;
-        public static final int navigation_bar_tab_selected=0x7f020006;
-        public static final int radio_navigation_bar_bg=0x7f020007;
-        public static final int square=0x7f020008;
+        public static final int appmgr_upgrade_edition_brief=0x7f020000;
+        public static final int chat=0x7f020001;
+        public static final int disk_bg_normal=0x7f020002;
+        public static final int disk_bg_pressed=0x7f020003;
+        public static final int disk_bg_selector=0x7f020004;
+        public static final int forum=0x7f020005;
+        public static final int group_background=0x7f020006;
+        public static final int icon=0x7f020007;
+        public static final int main_bg_normal=0x7f020008;
+        public static final int main_menu_normal=0x7f020009;
+        public static final int main_notify_logo=0x7f02000a;
+        public static final int main_screen_logo=0x7f02000b;
+        public static final int mainscreen_bg=0x7f02000c;
+        public static final int mainscreen_bg_selector=0x7f02000d;
+        public static final int navigation_bar_tab_normal=0x7f02000e;
+        public static final int navigation_bar_tab_pressed=0x7f02000f;
+        public static final int navigation_bar_tab_selected=0x7f020010;
+        public static final int radio_navigation_bar_bg=0x7f020011;
+        public static final int smsunread=0x7f020012;
+        public static final int square=0x7f020013;
+        public static final int tabicon_black_white_list_normal=0x7f020014;
+        public static final int tabicon_call_record_normal=0x7f020015;
+        public static final int tabicon_sms_record_normal=0x7f020016;
+        public static final int title_bar_set_logout=0x7f020017;
+        public static final int tool_box_baohe=0x7f020018;
+        public static final int tool_box_feescan=0x7f020019;
+        public static final int tool_box_network=0x7f02001a;
+        public static final int tool_box_quickdial=0x7f02001b;
+        public static final int tool_box_system_exam=0x7f02001c;
+        public static final int tool_box_ticket=0x7f02001d;
+        public static final int traffic_list_unchecked=0x7f02001e;
+        public static final int traffic_main_unchecked=0x7f02001f;
+        public static final int traffic_tab_firewall_unchecked=0x7f020020;
     }
     public static final class id {
         public static final int fragment_chat=0x7f070002;
         public static final int fragment_forum=0x7f070001;
         public static final int fragment_square=0x7f070000;
+        public static final int gridView1=0x7f070009;
+        public static final int imageView1=0x7f07000b;
+        public static final int left=0x7f070008;
+        public static final int msg=0x7f07000c;
         public static final int rb_chat=0x7f070006;
         public static final int rb_forum=0x7f070005;
         public static final int rb_square=0x7f070004;
         public static final int rg_Social=0x7f070003;
+        public static final int right=0x7f07000a;
+        public static final int vPager=0x7f070007;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int fragment_chat=0x7f030001;
         public static final int fragment_forum=0x7f030002;
         public static final int fragment_square=0x7f030003;
+        public static final int square_grid=0x7f030004;
+        public static final int square_grid_item=0x7f030005;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
@@ -81,6 +113,7 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        public static final int main_button=0x7f060003;
         public static final int radio_navigation_bar_bottom_tab=0x7f060002;
     }
 }
